@@ -1,10 +1,14 @@
 /*
 
-Este e um simples programa que utiliza as estruturas de condicao IF e ELSE
-para simular um caixa.
+Pequeno programa  que utiliza as estruturas de condição IF e ELSE para simular um caixa de sorveteria.
 
 */
-
+*/
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 #include<iostream>
 
 using namespace std;
