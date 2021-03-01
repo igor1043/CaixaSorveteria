@@ -1,9 +1,7 @@
 /*
-
 Pequeno programa  que utiliza as estruturas de condição IF e ELSE para simular um caixa de sorveteria.
+*/
 
-*/
-*/
 /*
 * Author:  Igor Vinicius Freitas de Souza
 * GitHub: https://github.com/igor1043
